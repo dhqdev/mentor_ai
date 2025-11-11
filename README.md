@@ -6,6 +6,9 @@
 ![React Native](https://img.shields.io/badge/React%20Native-Expo-blue.svg)
 ![AI](https://img.shields.io/badge/AI-Gemini-orange.svg)
 
+![WhatsApp Image 2025-11-11 at 09 02 40 (2)](https://github.com/user-attachments/assets/8cfb782b-5b2a-457d-bca4-771b82ed4ef9) ![WhatsApp Image 2025-11-11 at 09 02 39 (3)](https://github.com/user-attachments/assets/69e2d2e7-8b22-4422-82c7-b7db8dc82705) ![WhatsApp Image 2025-11-11 at 09 02 39 (2)](https://github.com/user-attachments/assets/5cba71a0-8481-4e82-a6b9-c6c45efa786f)
+
+
 ## 🎯 Sobre o Projeto
 
 MentorIA é um aplicativo educacional revolucionário que usa Inteligência Artificial para ensinar qualquer tema de forma personalizada. Adapta a linguagem, gera explicações claras, cria quizzes inteligentes e até narra o conteúdo com voz natural!
